@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-playground",
+  "version": "1.0.0",
+  "description": "A place where I can play with webdriverio",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1",
+    "webdriverio": "^3.0.0"
+  },
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [
+    "webdriverio",
+    "mocha"
+  ],
+  "author": "Gregor Woiwode <gregor.woiwode@gmail.com>"
+}
