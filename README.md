@@ -24,3 +24,7 @@ Run tests.
 ```shell
 $ npm test
 ```
+
+# Further Reading
+
+- [Selenium testing workflow with WebdriverIO](http://twin.github.io/selenium-testing-workflow-with-webdriverio/)
