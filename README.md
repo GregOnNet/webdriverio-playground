@@ -1,13 +1,13 @@
 # Setup
 
-## selenium-standalone
+Install selenium-standalone.
 
 ```shell
 $ npm install -g selenium-standalone
 $ selenium-standalone install
 ```
 
-## local node modules
+Install local node modules of this repository.
 
 ```shell
 $ npm install
