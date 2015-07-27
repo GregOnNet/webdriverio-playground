@@ -3,7 +3,7 @@
 ## selenium-standalone
 
 ```shell
-$ npm install -g
+$ npm install -g selenium-standalone
 $ selenium-standalone install
 ```
 
